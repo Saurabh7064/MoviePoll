@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+.centerForm{margin:5% auto; width:300px;}
+.center{width: 90%; margin: 0 auto;}
+.error{color:red !important; }
+.li_users{float: none; display: inline-block; margin-left:20px;}
+#customDateTag{color:#777;}
